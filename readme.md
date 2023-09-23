@@ -9,8 +9,8 @@ The case initial boilerplate can be found here.
 
 Every folder contains a full project that needs to be configured.
 
-- Step 1 - implementation of the design using a mobile first approach in Tailwind CSS
-- Step 2 - extracted the design to some simplistic and easy to follow components
-- Step 3 - introduced component data binding
-- Step 4 - introduced event handling and data sharing via stores
+- Step 1 - implementation of the design using a mobile first approach in Tailwind CSS (lesson 1)
+- Step 2 - extracted the design to some simplistic and easy to follow components (lesson 1)
+- Step 3 - introduced component data binding (lesson 2)
+- Step 4 - introduced event handling and data sharing via stores (lesson 3)
   
